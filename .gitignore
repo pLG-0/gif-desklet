@@ -1,0 +1,8 @@
+# Logs and configs
+*.log
+*.ini
+# Python
+__pycache__/
+*.pyc
+# Misc
+*.bak
