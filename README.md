@@ -12,3 +12,6 @@ This is my first program so don't be harsh on me.
   ```bash
   sudo apt-get install python3-gi python3-pil
   pip3 install psutil
+## Usage
+```bash
+python3 gif_desklet.py
