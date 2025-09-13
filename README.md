@@ -2,7 +2,6 @@
 
 A Python GTK application to display a GIF as a desktop widget on Linux. Features include customizable positioning, multi-monitor support, drag-and-drop for custom positions, and autostart on login.
 
-This is my first program so don't be harsh on me.
 
 ## Installation
 
